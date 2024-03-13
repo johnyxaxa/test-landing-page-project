@@ -11,9 +11,6 @@ body {
 .navbar {
     background-color: #1f2937;
     display: flex;
-    /* padding: 24px; */
-    /* padding-left: 300px;
-    padding-right: 300px; */
     align-items: center;
     
 }
@@ -22,18 +19,19 @@ body {
     font-size: 24px;
     font-weight: bold;
     color: #f9faf8;
-    justify-content: flex-start;
-    /* padding-left: 100px; */
+    padding-left: 100px;
 }
 
-.navbar ul {
-    padding: 20px;
-    /* justify-self: flex-end; */
-    border: 1px solid white;
+.nav-list ul {
+    margin-left: 880px;
     list-style-type: none;
     display: flex;
-    
-    
+    justify-content: space-between;
+
+}
+
+ul li {
+    padding: 20px;
 }
 
 .nav-list a {
