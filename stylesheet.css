@@ -99,3 +99,50 @@ ul li {
     border-radius: 10px; 
     overflow: hidden; 
 }
+
+/* ----------------------------------------------------info-section--------------------------------------------------------- */
+
+.info {
+    display: flex;
+    /* padding-top: 40px;
+    padding-bottom: 40px; */
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 0px;
+    /* flex-wrap: wrap; */
+}
+
+.info-text p {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: #1f2937;
+    width: 100%;
+}
+
+.info-img-des {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 120px;
+    gap: 40px;
+}
+
+.info-child .image{
+    background-color: #1f2937;
+    width: 240px;
+    height: 240px;
+    border-radius: 7px; 
+    overflow: hidden; 
+}
+
+.info-child p {
+    color: grey;
+    padding-bottom: 20px;
+}
+
+
