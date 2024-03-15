@@ -145,4 +145,27 @@ ul li {
     padding-bottom: 20px;
 }
 
+/* ----------------------------------------------------Quote-Section----------------------------------------------------*/
 
+.quote-section {
+    background-color: #e5e7eb;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: oblique;
+    color: #1f2937;
+    font-weight: lighter;
+}
+
+.author {
+    padding: 20px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+}
