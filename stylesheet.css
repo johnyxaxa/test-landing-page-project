@@ -218,3 +218,14 @@ ul li {
     cursor: pointer;
     font-weight: bold;
 }
+
+/* --------------------------------------------------------Footer--------------------------------------------------------*/
+
+.top {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
